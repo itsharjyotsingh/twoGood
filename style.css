@@ -20,6 +20,7 @@ html, body {
     height: 150px;
     width: 150px;
     background-color: blanchedalmond;
+    opacity: 0.6;
     border-radius: 50%;
     position: fixed;
     transform: translate(-50%,-50%) scale(0);
@@ -122,6 +123,7 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 
 .child img {
